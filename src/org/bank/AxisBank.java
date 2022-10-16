@@ -18,6 +18,10 @@ System.out.println("Deposited amount on 2020 is "+f+S);
 		A.deposit(300000, " In that 100000rs is to start a new business after 2022");
 	}
 	
+
+	private void Mukesh() {
+	System.out.println("10LPA");
+	}
 	private void mukesh() {
 		System.out.println("8LPA");
 
